@@ -1,3 +1,4 @@
 cmd/cmd
 *.json
 .DS_Store
+.env
